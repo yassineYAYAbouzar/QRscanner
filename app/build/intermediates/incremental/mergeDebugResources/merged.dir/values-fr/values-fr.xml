@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string name="BarCode_Camera">Caméra code-barres</string>
+    <string name="Code_List">Liste de codes</string>
+    <string name="Create_your_own_QR">Créez votre Votre QR Code</string>
+    <string name="Detect_and_Scan_codes">Scannez les codes et détectez</string>
+    <string name="Generate_QR">Générer un QR</string>
+    <string name="Home">Accueil</string>
+    <string name="QR_Camera">Caméra QR</string>
+    <string name="QR_from_File">Partir fichier</string>
+    <string name="Qr_code_and_bar_code_types">LES types de code Qr et code à barres</string>
+    <string name="Recognize_all_of_the_common">!Reconnaître tous les /?</string>
+    <string name="Settings">Paramètres</string>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Autres options"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"OK"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"NON"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"OUI"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="aboutus">À propos de nous</string>
+    <string name="app_description">QR  Scanner de code-barres</string>
+    <string name="app_name">Scanner QR GRATUIT</string>
+    <string name="app_name_label">Scanner QR -  &amp; Code à barre</string>
+    <string name="apply_text">Ok</string>
+    <string name="automatically_without_press">sans appuyer sur aucun bouton automatiquement :)</string>
+    <string name="cancel_text">Annuler</string>
+    <string name="code_and_share_with_friends">Codez un gène et partagez avec vos amis</string>
+    <string name="code_type_barcode">code à barre</string>
+    <string name="code_type_contact">Contact</string>
+    <string name="code_type_geo">Géo</string>
+    <string name="code_type_text">Texte</string>
+    <string name="code_type_web_link">lien Web</string>
+    <string name="code_type_wifi">WiFi</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Activer"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas activé les services Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Activer les services Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installer les services Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilité des services Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erreur liée aux services Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Mettre à jour"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas mis à jour les services Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Mettre à jour les services Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ouvrir sur le téléphone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Se connecter"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Se connecter avec Google"</string>
+    <string name="communicate">Communiquer</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Lien copié dans le presse-papiers"</string>
+    <string name="db_save">Le code est stocké dans la base de données</string>
+    <string name="delete_text">Effacer</string>
+    <string name="developer" translatable="false">© Json.bouzar</string>
+    <string name="dialog_delete_all_check">Êtes-vous sûr de vouloir supprimer les codes sélectionnés ?</string>
+    <string name="dialog_delete_code_confirm">Es-tu sûr?</string>
+    <string name="dialog_qr_size_error">La taille doit être comprise entre 100 et 1600</string>
+    <string name="dialog_save_desc_confirm">Sauvegarder les modifications?</string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Copier le lien"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Ouvrir dans un navigateur"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Partager le lien"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Divers"</string>
+    <string name="footer">Copyright © QScanner 2019. Tous droits réservés</string>
+    <string name="header_barcode_scanner">Lecteur de code-barres</string>
+    <string name="header_code_delete_list">Effacer</string>
+    <string name="header_code_formats_list">Liste des formats</string>
+    <string name="header_code_list">Liste de codes</string>
+    <string name="header_code_type">Type de code</string>
+    <string name="header_edit">Éditer</string>
+    <string name="header_qr_from_file">Rechercher un code QR</string>
+    <string name="header_qr_scanner">Scanner QR</string>
+    <string name="header_save">sauvegarder</string>
+    <string name="menu_item_barcode_camera_label">Caméra code-barres</string>
+    <string name="menu_item_code_list_label">Liste de codes</string>
+    <string name="menu_item_home_label">Accueil</string>
+    <string name="menu_item_qr_camera_label">Caméra QR</string>
+    <string name="menu_item_qr_file_label">QR à partir dun fichier</string>
+    <string name="menu_item_qr_generate_label">Générer un QR</string>
+    <string name="menu_item_settings_label">Paramètres</string>
+    <string name="moreapps">Plus dapplications</string>
+    <string name="no_codes_title">Aucun code enregistré</string>
+    <string name="no_text">non</string>
+    <string name="preview_code_name_label">Nom de code</string>
+    <string name="preview_code_result_label">Résultat</string>
+    <string name="preview_code_save">sauvegarder</string>
+    <string name="preview_code_type_label">Type de code</string>
+    <string name="privacypolicy">Politique de confidentialité</string>
+    <string name="qr_dialog_copy_clipboard">Copier dans le presse-papier</string>
+    <string name="qr_dialog_label">Résultat</string>
+    <string name="qr_dialog_open_browser">Ouvrir dans le navigateur</string>
+    <string name="qr_dialog_save">Enregistrer dans la base de données</string>
+    <string name="qr_dialog_search">Chercher sur Internet</string>
+    <string name="qr_from_file_error">Impossible de reconnaître le code du fichier</string>
+    <string name="qr_generate_btn_generate_text">produire</string>
+    <string name="qr_generate_btn_save_text">sauvegarder</string>
+    <string name="qr_generate_edit_text_hint">Saisissez le texte du code QR</string>
+    <string name="rateus">Evaluez nous</string>
+    <string msgid="368094699078615544" name="s1">"Enregistrer l\'image"</string>
+    <string msgid="4550830452390689489" name="s2">"Autoriser l\'annonce à stocker l\'image dans la galerie d\'images ?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepter"</string>
+    <string msgid="9167523597401839819" name="s4">"Refuser"</string>
+    <string msgid="1566682516266724847" name="s5">"Créer un événement d\'agenda"</string>
+    <string msgid="5996672174517137271" name="s6">"Autoriser l\'annonce à créer un événement d\'agenda ?"</string>
+    <string msgid="7163549807207034258" name="s7">"Annonce test"</string>
+    <string name="save_dialog_code_name">Nom</string>
+    <string name="save_dialog_file">Nom du fichier</string>
+    <string name="save_dialog_qr_size">Saisissez la taille du QR code généré (en pixels)</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Rechercher"</string>
+    <string name="settings_auto_focus_label">Mise au point automatique</string>
+    <string name="settings_auto_save_label">Sauvegarde automatique</string>
+    <string name="settings_code_formats_desc">Attention! Plus le nombre de formats sélectionnés est élevé, plus le processus de reconnaissance est long !</string>
+    <string name="settings_code_formats_label">Formats de codes</string>
+    <string name="settings_qr_size_label">Taille du code QR</string>
+    <string name="settings_rate_us">Évaluez nous</string>
+    <string name="settings_share">Partager</string>
+    <string name="settings_square_label">Cadre carré</string>
+    <string name="share_text">Le scanner QR et code-barres le plus rapide et le plus simple. Essayez-le maintenant:</string>
+    <string name="shareapp">Partager lapplication</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="yes_text">oui</string>
+</resources>

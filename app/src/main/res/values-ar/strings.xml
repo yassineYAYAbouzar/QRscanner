@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ماسح QR مجاني</string>
+    <string name="app_name_label">QR الماسح - QR والباركود</string>
+
+    <integer name="viewfinder_border_width">4</integer>
+    <integer name="viewfinder_border_length">60</integer>
+
+    <string name="apply_text">نعم</string>
+    <string name="cancel_text">لالغاء</string>
+    <string name="delete_text">حذف</string>
+
+    <!-- Headers -->
+
+    <string name="header_edit">تعديل</string>
+
+    <string name="Home">الصفحة الرئيسية</string>
+    <string name="QR_Camera">كاميرا QR</string>
+    <string name="QR_from_File"> من ملف</string>
+    <string name="BarCode_Camera">كاميرا الباركود</string>
+    <string name="Generate_QR">توليد QR</string>
+    <string name="Code_List">قائمة الرموز</string>
+    <string name="Settings">الإعدادات</string>
+
+
+
+
+    <string name="header_save">حفظ</string>
+    <string name="header_qr_scanner">QR الماسح الضوئي</string>
+    <string name="header_barcode_scanner">ماسح الباركود</string>
+    <string name="header_qr_from_file">ابحث عن رمز الاستجابة السريعة</string>
+    <string name="header_code_list">قائمة الرموز</string>
+    <string name="header_code_type">نوع الكود</string>
+    <string name="header_code_formats_list">قائمة التنسيقات</string>
+    <string name="header_code_delete_list">حذف</string>
+
+    <string name="menu_item_qr_camera_label"> الماسح الضوئي</string>
+    <string name="menu_item_barcode_camera_label">ماسح الباركود</string>
+    <string name="menu_item_qr_file_label">QR  من الملف</string>
+    <string name="menu_item_qr_generate_label">انشاء QR</string>
+    <string name="menu_item_code_list_label">قائمة الرموز</string>
+    <string name="menu_item_home_label">الصفحة الرئيسية</string>
+    <string name="menu_item_settings_label">الإعدادات</string>
+    <string name="settings_share">شارك</string>
+    <string name="settings_rate_us">قيمنا</string>
+
+    <string name="share_text">أسرع وأبسط ماسح ضوئي للرموز الشريطية ورموز الاستجابة السريعة. جربه الآن:</string>
+    <string name="qr_generate_edit_text_hint">أدخل نص رمز الاستجابة السريعة</string>
+    <string name="qr_generate_btn_generate_text">انشاء</string>
+    <string name="qr_generate_btn_save_text">حفظ</string>
+
+    <string name="db_save">يتم تخزين الرمز في قاعدة البيانات</string>
+
+    <string name="no_codes_title">لا رموز محفوظة</string>
+
+
+    <string name="settings_auto_focus_label">التركيز التلقائي</string>
+    <string name="settings_square_label">إطار مربع</string>
+    <string name="settings_auto_save_label">حفظ تلقائي</string>
+    <string name="settings_qr_size_label">حجم رمز الاستجابة السريعة</string>
+    <string name="settings_code_formats_label">تنسيقات التعليمات البرمجية</string>
+    <string name="settings_code_formats_desc">انتباه! كلما تم تحديد المزيد من التنسيقات ، كلما طال وقت عملية التعرف!</string>
+    <string name="preview_code_name_label">الرمز</string>
+    <string name="preview_code_type_label">نوع الكود</string>
+    <string name="preview_code_result_label">نتيجة</string>
+    <string name="preview_code_save">حفظ</string>
+
+    <string name="code_type_text">النص </string>
+    <string name="code_type_barcode">نص الباركود</string>
+    <string name="code_type_wifi">فاي</string>
+    <string name="code_type_geo">جغرافية</string>
+    <string name="code_type_web_link">موقع</string>
+    <string name="code_type_contact">اتصل</string>
+
+    <string name="dialog_save_desc_confirm">حفظ التغييرات؟</string>
+    <string name="dialog_delete_code_confirm">هل أنت متأكد؟ نعم</string>
+    <string name="dialog_qr_size_error">يجب أن يكون الحجم من 100 إلى 1600</string>
+    <string name="dialog_delete_all_check">يجب أن يكون الحجم من 100 إلى هل أنت متأكد أنك تريد حذف الرموز المحددة؟</string>
+
+    <string name="no_text">لا</string>
+    <string name="yes_text">نعم</string>
+    <string name="save_dialog_file">الاسم</string>
+    <string name="save_dialog_code_name">اسم</string>
+    <string name="save_dialog_qr_size">أدخل حجم رمز الاستجابة السريعة الذي تم إنشاؤه (بالبكسل) </string>
+
+    <string name="qr_dialog_label">نتيجة</string>
+    <string name="qr_dialog_open_browser">فتح في المتصفح</string>
+    <string name="qr_dialog_search">ابحث في الانترنت</string>
+    <string name="qr_dialog_copy_clipboard">نسخ إلى الحافظة</string>
+    <string name="qr_dialog_save">حفظ في قاعدة البيانات</string>
+
+    <string name="qr_from_file_error">تعذر التعرف على الرمز من الملف</string>
+
+    <string name="communicate">نقل</string>
+    <string name="rateus">قيمنا 5 نجوم</string>
+    <string name="aboutus">معلومات عنا</string>
+    <string name="shareapp">شارك التطبيق</string>
+    <string name="privacypolicy">سياسة خاصة</string>
+    <string name="moreapps">More Apps</string>
+    <string name="developer" translatable="false">© Pharid</string>
+    <string name="footer">حقوق النشر © QR Scanner 2019. جميع الحقوق محفوظة</string>
+    <string name="app_description">  ماسح الباركود</string>
+    <string name="Detect_and_Scan_codes">مسح الرموز والكشف</string>
+    <string name="automatically_without_press">بدون الضغط على أي زر تلقائيًا :)</string>
+    <string name="Create_your_own_QR">قم بإنشاء QR الخاص بك</string>
+    <string name="code_and_share_with_friends">كود جين ومشاركتها مع الأصدقاء</string>
+    <string name="Recognize_all_of_the_common">تعرف على كل ما هو مشترك /؟</string>
+    <string name="Qr_code_and_bar_code_types">كود Qr وأنواع الباركود</string>
+</resources>

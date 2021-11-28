@@ -1,0 +1,216 @@
+com/abc/theqrscannerprofree/helper/TheCodeHlp.java
+ com.abc.theqrscannerprofree.helper.TheCodeHlp
+com/abc/theqrscannerprofree/fragment/TheNextFragmentSettings.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentSettings
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentSettings$1
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentSettings$2
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentSettings$3
+com/abc/theqrscannerprofree/ForQrSimpleGenerateActivity.java
+ com.abc.theqrscannerprofree.ForQrSimpleGenerateActivity
+ com.abc.theqrscannerprofree.ForQrSimpleGenerateActivity$1
+ com.abc.theqrscannerprofree.ForQrSimpleGenerateActivity$2
+ com.abc.theqrscannerprofree.ForQrSimpleGenerateActivity$2$1
+com/abc/theqrscannerprofree/dao/DaoCodeForm.java
+ com.abc.theqrscannerprofree.dao.DaoCodeForm
+com/abc/theqrscannerprofree/constant/InterfaceConstan.java
+ com.abc.theqrscannerprofree.constant.InterfaceConstan
+com/abc/theqrscannerprofree/converse/OurQrRstSd.java
+ com.abc.theqrscannerprofree.converse.OurQrRstSd
+ com.abc.theqrscannerprofree.converse.OurQrRstSd$1
+ com.abc.theqrscannerprofree.converse.OurQrRstSd$2
+ com.abc.theqrscannerprofree.converse.OurQrRstSd$3
+ com.abc.theqrscannerprofree.converse.OurQrRstSd$4
+com/abc/theqrscannerprofree/fragment/TheNextFragmentCode.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentCode
+com/abc/theqrscannerprofree/views/TheBarScannerForView.java
+ com.abc.theqrscannerprofree.views.TheBarScannerForView
+ com.abc.theqrscannerprofree.views.TheBarScannerForView$1
+ com.abc.theqrscannerprofree.views.TheBarScannerForView$ResultHandler
+com/abc/theqrscannerprofree/utils/UtilsCameraEnd.java
+ com.abc.theqrscannerprofree.utils.UtilsCameraEnd
+com/abc/theqrscannerprofree/constant/TheColorsConst.java
+ com.abc.theqrscannerprofree.constant.TheColorsConst
+com/abc/theqrscannerprofree/CameraTestActivity.java
+ com.abc.theqrscannerprofree.CameraTestActivity
+ com.abc.theqrscannerprofree.CameraTestActivity$1
+ com.abc.theqrscannerprofree.CameraTestActivity$2
+ com.abc.theqrscannerprofree.CameraTestActivity$3
+ com.abc.theqrscannerprofree.CameraTestActivity$4
+com/abc/theqrscannerprofree/views/BarcodeScannerView.java
+ com.abc.theqrscannerprofree.views.BarcodeScannerView
+com/abc/theqrscannerprofree/fragment/TheNextFragmentGenerate.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentGenerate
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentGenerate$1
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentGenerate$2
+com/abc/theqrscannerprofree/helper/NamedFactoryHlp.java
+ com.abc.theqrscannerprofree.helper.NamedFactoryHlp
+com/abc/theqrscannerprofree/TheQrHiyaReadeActivity.java
+ com.abc.theqrscannerprofree.TheQrHiyaReadeActivity
+com/abc/theqrscannerprofree/BuildConfig.java
+ com.abc.theqrscannerprofree.BuildConfig
+com/abc/theqrscannerprofree/fragment/TheNextFragmentSave.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentSave
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentSave$1
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentSave$2
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentSave$3
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentSave$4
+com/abc/theqrscannerprofree/converse/TheCodSave.java
+ com.abc.theqrscannerprofree.converse.TheCodSave
+ com.abc.theqrscannerprofree.converse.TheCodSave$1
+ com.abc.theqrscannerprofree.converse.TheCodSave$2
+ com.abc.theqrscannerprofree.converse.TheCodSave$OnClickListener
+com/abc/theqrscannerprofree/fragment/TheNextFragmentQRcode.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentQRcode
+com/abc/theqrscannerprofree/utils/SharedPreferencesUtilsLikeFlutter.java
+ com.abc.theqrscannerprofree.utils.SharedPreferencesUtilsLikeFlutter
+com/abc/theqrscannerprofree/db/ItemFormCode.java
+ com.abc.theqrscannerprofree.db.ItemFormCode
+com/abc/theqrscannerprofree/adapter/TheCode.java
+ com.abc.theqrscannerprofree.adapter.TheCode
+ com.abc.theqrscannerprofree.adapter.TheCode$1
+ com.abc.theqrscannerprofree.adapter.TheCode$2
+ com.abc.theqrscannerprofree.adapter.TheCode$3
+ com.abc.theqrscannerprofree.adapter.TheCode$OnClickListener
+ com.abc.theqrscannerprofree.adapter.TheCode$ViewHolder
+com/abc/theqrscannerprofree/utils/IViewFinder.java
+ com.abc.theqrscannerprofree.utils.IViewFinder
+com/abc/theqrscannerprofree/utils/CameraWrapperUtils.java
+ com.abc.theqrscannerprofree.utils.CameraWrapperUtils
+com/abc/theqrscannerprofree/adapter/CodeList.java
+ com.abc.theqrscannerprofree.adapter.CodeList
+ com.abc.theqrscannerprofree.adapter.CodeList$1
+ com.abc.theqrscannerprofree.adapter.CodeList$2
+ com.abc.theqrscannerprofree.adapter.CodeList$3
+ com.abc.theqrscannerprofree.adapter.CodeList$OnClickListener
+ com.abc.theqrscannerprofree.adapter.CodeList$ViewHolder
+com/abc/theqrscannerprofree/converse/ConfirmDeleteCheck.java
+ com.abc.theqrscannerprofree.converse.ConfirmDeleteCheck
+ com.abc.theqrscannerprofree.converse.ConfirmDeleteCheck$1
+ com.abc.theqrscannerprofree.converse.ConfirmDeleteCheck$2
+ com.abc.theqrscannerprofree.converse.ConfirmDeleteCheck$OnClickListener
+com/abc/theqrscannerprofree/fragment/TheNextFragmentList.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentList
+com/abc/theqrscannerprofree/utils/DisplayUtils.java
+ com.abc.theqrscannerprofree.utils.DisplayUtils
+com/abc/theqrscannerprofree/utils/PushNotificationU.java
+ com.abc.theqrscannerprofree.utils.PushNotificationU
+com/abc/theqrscannerprofree/fragment/TheNextFragmentType.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentType
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentType$OnChangeType
+com/abc/theqrscannerprofree/converse/YouNeedToConfirmS.java
+ com.abc.theqrscannerprofree.converse.YouNeedToConfirmS
+ com.abc.theqrscannerprofree.converse.YouNeedToConfirmS$1
+ com.abc.theqrscannerprofree.converse.YouNeedToConfirmS$2
+ com.abc.theqrscannerprofree.converse.YouNeedToConfirmS$OnClickListener
+com/abc/theqrscannerprofree/OuNextCameraAdiPreview.java
+ com.abc.theqrscannerprofree.OuNextCameraAdiPreview
+com/abc/theqrscannerprofree/utils/OurFormUtils.java
+ com.abc.theqrscannerprofree.utils.OurFormUtils
+com/abc/theqrscannerprofree/dao/TheQrDaoCode.java
+ com.abc.theqrscannerprofree.dao.TheQrDaoCode
+com/abc/theqrscannerprofree/converse/OurQrRst.java
+ com.abc.theqrscannerprofree.converse.OurQrRst
+ com.abc.theqrscannerprofree.converse.OurQrRst$1
+ com.abc.theqrscannerprofree.converse.OurQrRst$2
+ com.abc.theqrscannerprofree.converse.OurQrRst$3
+ com.abc.theqrscannerprofree.converse.OurQrRst$4
+ com.abc.theqrscannerprofree.converse.OurQrRst$5
+ com.abc.theqrscannerprofree.converse.OurQrRst$6
+ com.abc.theqrscannerprofree.converse.OurQrRst$OnClickListener
+com/abc/theqrscannerprofree/helper/MyIconHlp.java
+ com.abc.theqrscannerprofree.helper.MyIconHlp
+com/abc/theqrscannerprofree/fragment/TheNextFragmentFile.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentFile
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentFile$1
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentFile$2
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentFile$3
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentFile$4
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentFile$5
+com/abc/theqrscannerprofree/TheBaseAct.java
+ com.abc.theqrscannerprofree.TheBaseAct
+com/abc/theqrscannerprofree/fragment/TheNextFragmentBs.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentBs
+com/abc/theqrscannerprofree/fragment/TheNextFragmentEdit.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentEdit
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentEdit$1
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentEdit$2
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentEdit$3
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentEdit$4
+com/abc/theqrscannerprofree/SplashActivity.java
+ com.abc.theqrscannerprofree.SplashActivity
+com/abc/theqrscannerprofree/fragment/FragmentDrawer.java
+ com.abc.theqrscannerprofree.fragment.FragmentDrawer
+ com.abc.theqrscannerprofree.fragment.FragmentDrawer$OnClickPathListener
+com/abc/theqrscannerprofree/MainActivity.java
+ com.abc.theqrscannerprofree.MainActivity
+ com.abc.theqrscannerprofree.MainActivity$1
+ com.abc.theqrscannerprofree.MainActivity$2
+ com.abc.theqrscannerprofree.MainActivity$3
+ com.abc.theqrscannerprofree.MainActivity$4
+ com.abc.theqrscannerprofree.MainActivity$5
+ com.abc.theqrscannerprofree.MainActivity$MyViewPagerAdapter
+com/abc/theqrscannerprofree/db/TheQrItemCodes.java
+ com.abc.theqrscannerprofree.db.TheQrItemCodes
+com/abc/theqrscannerprofree/utils/ForRstUtils.java
+ com.abc.theqrscannerprofree.utils.ForRstUtils
+com/abc/theqrscannerprofree/views/ClassViewHaveView.java
+ com.abc.theqrscannerprofree.views.ClassViewHaveView
+com/abc/theqrscannerprofree/db/SqlDatabaseListHelper.java
+ com.abc.theqrscannerprofree.db.SqlDatabaseListHelper
+com/abc/theqrscannerprofree/converse/SaveBTestMp.java
+ com.abc.theqrscannerprofree.converse.SaveBTestMp
+ com.abc.theqrscannerprofree.converse.SaveBTestMp$1
+ com.abc.theqrscannerprofree.converse.SaveBTestMp$2
+com/abc/theqrscannerprofree/utils/JavaClassThread.java
+ com.abc.theqrscannerprofree.utils.JavaClassThread
+ com.abc.theqrscannerprofree.utils.JavaClassThread$1
+ com.abc.theqrscannerprofree.utils.JavaClassThread$1$1
+com/abc/theqrscannerprofree/views/NxtOneUsingScannerView.java
+ com.abc.theqrscannerprofree.views.NxtOneUsingScannerView
+ com.abc.theqrscannerprofree.views.NxtOneUsingScannerView$1
+ com.abc.theqrscannerprofree.views.NxtOneUsingScannerView$ResultHandler
+com/abc/theqrscannerprofree/converse/TheQrSzSv.java
+ com.abc.theqrscannerprofree.converse.TheQrSzSv
+ com.abc.theqrscannerprofree.converse.TheQrSzSv$1
+ com.abc.theqrscannerprofree.converse.TheQrSzSv$2
+ com.abc.theqrscannerprofree.converse.TheQrSzSv$OnClickListener
+com/abc/theqrscannerprofree/NextQrActActivity.java
+ com.abc.theqrscannerprofree.NextQrActActivity
+com/abc/theqrscannerprofree/fragment/TheNextFragmentMain.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentMain
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentMain$1
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentMain$2
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentMain$3
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentMain$4
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentMain$5
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentMain$6
+com/abc/theqrscannerprofree/helper/NamedPaintHlp.java
+ com.abc.theqrscannerprofree.helper.NamedPaintHlp
+com/abc/theqrscannerprofree/fragment/TheFirstTheNextFragmentCodBar.java
+ com.abc.theqrscannerprofree.fragment.TheFirstTheNextFragmentCodBar
+com/abc/theqrscannerprofree/adapter/RemoveCode.java
+ com.abc.theqrscannerprofree.adapter.RemoveCode
+ com.abc.theqrscannerprofree.adapter.RemoveCode$1
+ com.abc.theqrscannerprofree.adapter.RemoveCode$2
+ com.abc.theqrscannerprofree.adapter.RemoveCode$3
+ com.abc.theqrscannerprofree.adapter.RemoveCode$OnClickListener
+ com.abc.theqrscannerprofree.adapter.RemoveCode$ViewHolder
+com/abc/theqrscannerprofree/converse/YouNedToConfirmD.java
+ com.abc.theqrscannerprofree.converse.YouNedToConfirmD
+ com.abc.theqrscannerprofree.converse.YouNedToConfirmD$1
+ com.abc.theqrscannerprofree.converse.YouNedToConfirmD$2
+ com.abc.theqrscannerprofree.converse.YouNedToConfirmD$OnClickListener
+com/abc/theqrscannerprofree/utils/PreviewUtils.java
+ com.abc.theqrscannerprofree.utils.PreviewUtils
+ com.abc.theqrscannerprofree.utils.PreviewUtils$1
+ com.abc.theqrscannerprofree.utils.PreviewUtils$2
+com/abc/theqrscannerprofree/helper/ControleCHlp.java
+ com.abc.theqrscannerprofree.helper.ControleCHlp
+com/abc/theqrscannerprofree/TheFirstBarActivity.java
+ com.abc.theqrscannerprofree.TheFirstBarActivity
+com/abc/theqrscannerprofree/utils/FirNotificationAVO.java
+ com.abc.theqrscannerprofree.utils.FirNotificationAVO
+com/abc/theqrscannerprofree/fragment/TheNextFragmentDelete.java
+ com.abc.theqrscannerprofree.fragment.TheNextFragmentDelete
+com/abc/theqrscannerprofree/service/MyFirebaseMessagingService.java
+ com.abc.theqrscannerprofree.service.MyFirebaseMessagingService

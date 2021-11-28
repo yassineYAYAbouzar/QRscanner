@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scanner QR GRATUIT</string>
+    <string name="app_name_label">Scanner QR -  &amp; Code à barre</string>
+
+    <integer name="viewfinder_border_width">4</integer>
+    <integer name="viewfinder_border_length">60</integer>
+
+    <string name="apply_text">Ok</string>
+    <string name="cancel_text">Annuler</string>
+    <string name="delete_text">Effacer</string>
+
+    <!-- Headers -->
+
+    <string name="header_edit">Éditer</string>
+
+    <string name="Home">Accueil</string>
+
+    <string name="QR_Camera">Caméra QR</string>
+    <string name="QR_from_File">Partir fichier</string>
+    <string name="BarCode_Camera">Caméra code-barres</string>
+    <string name="Generate_QR">Générer un QR</string>
+    <string name="Code_List">Liste de codes</string>
+    <string name="Settings">Paramètres</string>
+
+    <string name="header_save">sauvegarder</string>
+    <string name="header_qr_scanner">Scanner QR</string>
+    <string name="header_barcode_scanner">Lecteur de code-barres</string>
+    <string name="header_qr_from_file">Rechercher un code QR</string>
+    <string name="header_code_list">Liste de codes</string>
+    <string name="header_code_type">Type de code</string>
+    <string name="header_code_formats_list">Liste des formats</string>
+    <string name="header_code_delete_list">Effacer</string>
+
+    <string name="menu_item_qr_camera_label">Caméra QR</string>
+    <string name="menu_item_barcode_camera_label">Caméra code-barres</string>
+    <string name="menu_item_qr_file_label">QR à partir dun fichier</string>
+    <string name="menu_item_qr_generate_label">Générer un QR</string>
+    <string name="menu_item_code_list_label">Liste de codes</string>
+    <string name="menu_item_home_label">Accueil</string>
+    <string name="menu_item_settings_label">Paramètres</string>
+    <string name="settings_share">Partager</string>
+    <string name="settings_rate_us">Évaluez nous</string>
+
+    <string name="share_text">Le scanner QR et code-barres le plus rapide et le plus simple. Essayez-le maintenant:</string>
+    <string name="qr_generate_edit_text_hint">Saisissez le texte du code QR</string>
+    <string name="qr_generate_btn_generate_text">produire</string>
+    <string name="qr_generate_btn_save_text">sauvegarder</string>
+
+    <string name="db_save">Le code est stocké dans la base de données</string>
+
+    <string name="no_codes_title">Aucun code enregistré</string>
+
+
+    <string name="settings_auto_focus_label">Mise au point automatique</string>
+    <string name="settings_square_label">Cadre carré</string>
+    <string name="settings_auto_save_label">Sauvegarde automatique</string>
+    <string name="settings_qr_size_label">Taille du code QR</string>
+    <string name="settings_code_formats_label">Formats de codes</string>
+    <string name="settings_code_formats_desc">Attention! Plus le nombre de formats sélectionnés est élevé, plus le processus de reconnaissance est long !</string>
+    <string name="preview_code_name_label">Nom de code</string>
+    <string name="preview_code_type_label">Type de code</string>
+    <string name="preview_code_result_label">Résultat</string>
+    <string name="preview_code_save">sauvegarder</string>
+
+    <string name="code_type_text">Texte</string>
+    <string name="code_type_barcode">code à barre</string>
+    <string name="code_type_wifi">WiFi</string>
+    <string name="code_type_geo">Géo</string>
+    <string name="code_type_web_link">lien Web</string>
+    <string name="code_type_contact">Contact</string>
+
+    <string name="dialog_save_desc_confirm">Sauvegarder les modifications?</string>
+    <string name="dialog_delete_code_confirm">Es-tu sûr?</string>
+    <string name="dialog_qr_size_error">La taille doit être comprise entre 100 et 1600</string>
+    <string name="dialog_delete_all_check">Êtes-vous sûr de vouloir supprimer les codes sélectionnés ?</string>
+
+    <string name="no_text">non</string>
+    <string name="yes_text">oui</string>
+    <string name="save_dialog_file">Nom du fichier</string>
+    <string name="save_dialog_code_name">Nom</string>
+    <string name="save_dialog_qr_size">Saisissez la taille du QR code généré (en pixels)</string>
+
+    <string name="qr_dialog_label">Résultat</string>
+    <string name="qr_dialog_open_browser">Ouvrir dans le navigateur</string>
+    <string name="qr_dialog_search">Chercher sur Internet</string>
+    <string name="qr_dialog_copy_clipboard">Copier dans le presse-papier</string>
+    <string name="qr_dialog_save">Enregistrer dans la base de données</string>
+
+    <string name="qr_from_file_error">Impossible de reconnaître le code du fichier</string>
+
+    <string name="communicate">Communiquer</string>
+    <string name="rateus">Evaluez nous</string>
+    <string name="aboutus">À propos de nous</string>
+    <string name="shareapp">Partager lapplication</string>
+    <string name="privacypolicy">Politique de confidentialité</string>
+    <string name="moreapps">Plus dapplications</string>
+    <string name="developer" translatable="false">© Json.bouzar</string>
+    <string name="footer">Copyright © QScanner 2019. Tous droits réservés</string>
+    <string name="app_description">QR  Scanner de code-barres</string>
+    <string name="Detect_and_Scan_codes">Scannez les codes et détectez</string>
+    <string name="automatically_without_press">sans appuyer sur aucun bouton automatiquement :)</string>
+    <string name="Create_your_own_QR">Créez votre Votre QR Code</string>
+    <string name="code_and_share_with_friends">Codez un gène et partagez avec vos amis</string>
+    <string name="Recognize_all_of_the_common">!Reconnaître tous les /?</string>
+    <string name="Qr_code_and_bar_code_types">LES types de code Qr et code à barres</string>
+</resources>
